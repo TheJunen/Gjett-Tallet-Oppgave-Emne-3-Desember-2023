@@ -1,0 +1,14 @@
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\bin\Debug\net6.0\Gjett Tallet! Oppgave.exe
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\bin\Debug\net6.0\Gjett Tallet! Oppgave.deps.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\bin\Debug\net6.0\Gjett Tallet! Oppgave.runtimeconfig.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\bin\Debug\net6.0\Gjett Tallet! Oppgave.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\bin\Debug\net6.0\Gjett Tallet! Oppgave.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\obj\Debug\net6.0\Gjett Tallet! Oppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\obj\Debug\net6.0\Gjett Tallet! Oppgave.AssemblyInfoInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\obj\Debug\net6.0\Gjett Tallet! Oppgave.AssemblyInfo.cs
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\obj\Debug\net6.0\Gjett Tallet! Oppgave.csproj.CoreCompileInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\obj\Debug\net6.0\Gjett Tallet! Oppgave.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\obj\Debug\net6.0\refint\Gjett Tallet! Oppgave.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\obj\Debug\net6.0\Gjett Tallet! Oppgave.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\obj\Debug\net6.0\Gjett Tallet! Oppgave.genruntimeconfig.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Gjett Tallet! Oppgave\Gjett Tallet! Oppgave\obj\Debug\net6.0\ref\Gjett Tallet! Oppgave.dll
